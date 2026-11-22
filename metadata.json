@@ -1,0 +1,6 @@
+{
+  "name": "ExcelGrid Studio",
+  "description": "Full-featured spreadsheet application with formula engine, pivot tables, charts, conditional formatting, data tools, and XLSX import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
